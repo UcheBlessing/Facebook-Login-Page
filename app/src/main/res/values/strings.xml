@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Facebook Login Page</string>
+    <string name="Username">Phone or email</string>
+    <string name="Pass">Password</string>
+    <string name="Reg">Log In</string>
+    <string name="Help">Forgot Password?</string>
+    <string name="or">OR</string>
+    <string name="New_account">Create New Facebook Account</string>
+</resources>
